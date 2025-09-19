@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**Dynamic1998/Dynamic1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I am Emmanuel
 
-Here are some ideas to get you started:
+💡 *Data Analyst | SQL | Python | Excel | Power BI*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I am documenting my journey into data analytics and building projects that turn raw data into actionable insights.
+
+🚀 About Me
+- 🌱 Tools: SQL, Python (pandas), Excel, and Power BI  
+- 🎯 Goal: Become a data analyst who can clean, analyse, and visualise data for effective decision-making  
+- 📍 Location: United Kingdom  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** SQL, Python  
+- **Libraries:** pandas, matplotlib, seaborn  
+- **Tools:** Excel, Power BI, Jupyter Notebooks  
+- **Other:** Data cleaning, EDA, visualisation  
+
+---
+
+## 📂 Projects
+1. **Online retail Marketing Analytics** **(uploading soon)**
+- 📊 **SQL** - Exploring and cleaning the datatset 
+- 🐍 **Python** — connected to the SQL server and perform sentiment analysis
+- 📈 **Power BI Dashboard** —  visualisation of explored dataset    
+
+Stay tuned — uploading soon! 🚀  
+
+---
+
+## 📚 Learning Log
+I am sharing smaller practice queries, scripts, and notes in a [Learning Log](https://github.com/yourusername/learning-log).  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/olagunju-gaizer/]  
+- Email: [Emmanuelgaizer30@gmail.com]  
+
+---
+
+✨ Thanks for visiting my profile! Check back soon for projects.
