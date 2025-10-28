@@ -21,17 +21,10 @@ Welcome to my GitHub! I am documenting my journey into data analytics and buildi
 ---
 
 ## 📂 Projects
-1. **Online retail Marketing Analytics** **(uploading soon)**
+1. **YouTube Comments And Popularity Analysis** 
 - 📊 **SQL** - Exploring and cleaning the datatset 
 - 🐍 **Python** — connected to the SQL server and perform sentiment analysis
-- 📈 **Power BI Dashboard** —  visualisation of explored dataset    
 
-Stay tuned — uploading soon! 🚀  
-
----
-
-## 📚 Learning Log
-I am sharing smaller practice queries, scripts, and notes in a [Learning Log](https://github.com/yourusername/learning-log).  
 
 ---
 
@@ -41,4 +34,4 @@ I am sharing smaller practice queries, scripts, and notes in a [Learning Log](ht
 
 ---
 
-✨ Thanks for visiting my profile! Check back soon for projects.
+✨ Thanks for visiting my profile! Check back soon for more projects.
